@@ -1,0 +1,42 @@
+#groupingdropdown {
+	display: none;
+}
+.form-control.withclear.rounded {
+	display: none;
+}
+#sortingdropdown {
+	display: none;
+}
+#displaydropdown {
+	display: none;
+}
+.mt-0 {
+	display: none;
+}
+.breadcrumb-item{
+	display: none;
+}
+.btn.btn-outline-secondary.btn-sm.text-nowrap {
+	display: none;
+}
+.btn.btn-open.rounded-0.nav-link {
+	display: none;
+}
+.btn.btn-link.h-100.header_link.button_otsupport {
+	display: none;
+}
+.usertext.mr-1 {
+	display: none;
+}
+.divider.border-left.h-50.align-self-center.mx-1 {
+	display: none;
+}
+.block_coursemessage.block.card.mb-3 {
+	display: none;
+}
+.block_accessibility.block.card.mb-3{
+	display: none;
+}
+.ml-auto.d-flex {
+	display: none;
+}
