@@ -1,0 +1,131 @@
+:root {
+	--white-purple: #8458B3;
+	--dark-purple: #161748;
+	--hover-purple: #a28089;
+	--white-green: #a0d2eb;
+	--dark-green: #c2edda;
+	--white-blue: #00DDFF;
+	--dark-blue: #0049B7;
+}
+
+a {
+	color: var(--white-purple);
+}
+a:hover {
+	color: var(--hover-purple);
+	text-decoration: none;
+	cursor: pointer;
+}
+span {
+	color: var(--white-purple);
+}
+body {
+	font-family: Trebuchet MS, sans-serif;
+	font-size: 16px;
+}
+td {
+	color: var(--white-purple);
+}
+.navbar-brand.d-flex.align-items-center.m-1.p-0.aabtn{
+	color: #d0bdf4;
+}
+#groupingdropdown {
+	display: none;
+}
+.form-control.withclear.rounded {
+	display: none;
+}
+#sortingdropdown {
+	display: none;
+}
+#displaydropdown {
+	display: none;
+}
+.mt-0 {
+	display: none;
+}
+.page-header-headings {
+	color: var(--white-purple);
+}
+.card-title.d-inline {
+	color: var(--white-purple);
+}
+.breadcrumb-item{
+	display: none;
+}
+.btn.btn-outline-secondary.btn-sm.text-nowrap {
+	display: none;
+}
+.btn.btn-open.rounded-0.nav-link {
+	display: none;
+}
+.btn.btn-link.h-100.header_link.button_otsupport {
+	display: none;
+}
+.card-body.p-3 {
+	border: 1px solid var(--white-purple);
+	border-radius: 5px;
+}
+.course-section-header.d-flex {
+	color: var(--white-purple);
+}
+.usertext.mr-1 {
+	display: none;
+}
+.divider.border-left.h-50.align-self-center.mx-1 {
+	display: none;
+}
+.block_coursemessage.block.card.mb-3 {
+	display: none;
+}
+.block_accessibility.block.card.mb-3{
+	display: none;
+}
+.region-main {
+	background-color: var(--dark-purple);
+}
+.columnleft.blockcolumn.has-blocks {
+	background-color: var(--dark-purple);
+}
+.col-12.pt-3.pb-3 {
+	background-color: var(--dark-purple);
+}
+.vjs-play-progress.vjs-slider-bar {
+	color: var(--white-purple);
+}
+.vjs-progress-holder.vjs-slider.vjs-slider-horizontal {
+	color: white;
+}
+.vjs-menu-item-text {
+	color: white;
+}
+.vjs-remaining-time.vjs-time-control.vjs-control {
+	color: white;
+}
+.vjs-remaining-time-display {
+	color: white;
+}
+.icon-fullscreen {
+	color: white;
+}
+.vjs-icon-placeholder {
+	color: white;
+}
+.initials {
+	color: white;
+}
+.message-wrapper {
+	font-size: 18px;
+}
+.ml-auto.d-flex {
+	display: none;
+}
+#chat-toggle-button {
+	color: var(--white-purple);
+}
+.mb-3.mt-3 {
+	color: white;
+}
+#loginbtn {
+	background-color: var(--white-purple);
+}
