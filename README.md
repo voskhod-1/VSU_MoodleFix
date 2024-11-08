@@ -4,9 +4,9 @@
 
 Понадобятся попозже, при установке.
 
-[Lite-theme (Standard)](https://github.com/matiassingers/awesome-readme) - базовая тема, удаляющая лишнее, не изменяя кардинально UI.
+[Lite-theme (Standard)]((https://github.com/stariycat/moodlefix/tree/main/Standard)) - базовая тема, удаляющая лишнее, не изменяя кардинально UI.
 
-[Purple Night](https://github.com/matiassingers/awesome-readme) - тема для любителей фиолетового и тёмно-фиолетового.
+[Purple Night](https://github.com/stariycat/moodlefix/tree/main/Purple%20Night) - тема для любителей фиолетового и тёмно-фиолетового.
 
 ![Purple Night](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/image2.png)
 
