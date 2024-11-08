@@ -4,7 +4,7 @@
 
 Понадобятся попозже, при установке.
 
-[Lite-theme (Standard)]((https://github.com/stariycat/moodlefix/tree/main/Standard)) - базовая тема, удаляющая лишнее, не изменяя кардинально UI.
+[Lite-theme (Standard)](https://github.com/stariycat/moodlefix/tree/main/Standard) - базовая тема, удаляющая лишнее, не изменяя кардинально UI.
 
 [Purple Night](https://github.com/stariycat/moodlefix/tree/main/Purple%20Night) - тема для любителей фиолетового и тёмно-фиолетового.
 
