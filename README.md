@@ -90,5 +90,5 @@ Chromium-подобные браузеры: - [ссылка](https://github.com/
 **8) Всё!**
 ## Credits
 
-- Telegram: [@a1b2c3d4e5f6g7h8i9j10k11l12m17](t.me/a1b2c3d4e5f6g7h8i9j10k11l12m17)
+- Telegram: [@a1b2c3d4e5f6g7h8i9j10k11l12m17](https://t.me/a1b2c3d4e5f6g7h8i9j10k11l12m17)
 
