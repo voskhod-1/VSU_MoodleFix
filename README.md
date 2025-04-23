@@ -1,5 +1,5 @@
 
-# Фиксим мудл от лагов при загрузке страницы (новой авторизации, смены куки)
+# Чиним долгую загрузку и лаги мудла
 ## Темы для CSS-оптимизации
 
 Понадобятся попозже, при установке.
@@ -9,6 +9,8 @@
 ![Lite-theme (Standard)](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/image3.png)
 
 ![Lite-theme (Standard)](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/image4.png)
+
+[Cosmo Stars]() – тема для фанатов космонавтов(скоро)
 
 [Purple Night](https://github.com/stariycat/moodlefix/tree/main/Purple%20Night) - тема для любителей фиолетового и тёмно-фиолетового.
 
