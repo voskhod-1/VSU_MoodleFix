@@ -31,9 +31,10 @@
 
 ![setpage](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/5eb330d0-887b-4cfd-b7a2-12d2c944e19d.png)
 
-3) Удаляем блоки **"Мое портфолио", "Курсы повышения квалификации"** (если есть), **"Витрина курсов".**
+3) Удаляем блоки **"Мое портфолио", "Курсы повышения квалификации"**, **"Витрина курсов"(если есть).**
 
-![setpage](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/ffb72483-56e7-4442-bbc7-59367455af9c.png)
+![delblocks](https://github.com/user-attachments/assets/d6e41bfe-2a71-4cbd-9b20-55086d9ef8c9)
+
 
 4) Нажимаем **прекратить настраивать эту страницу**
 
