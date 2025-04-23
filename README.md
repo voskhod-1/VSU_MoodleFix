@@ -85,15 +85,15 @@ Mozilla Firefox - [ссылка](https://addons.mozilla.org/en-US/firefox/addon/
 
 Понадобятся попозже, при установке.
 
-[Lite-theme (Standard)](https://github.com/stariycat/moodlefix/tree/main/Standard) - базовая тема, удаляющая лишнее, не изменяя кардинально UI.
+[Lite-theme (Standard)](/Standard/style.css) - базовая тема, удаляющая лишнее, не изменяя кардинально UI.
 
 ![Lite-theme (Standard)](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/image3.png)
 
 ![Lite-theme (Standard)](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/image4.png)
 
-[Cosmo Stars]() – тема для фанатов проекта [Звездочет](https://github.com/voskhod-1/starsresearch/)(скоро)
+[Cosmo Stars](Cosmo-Stars/style.css) – тема для фанатов проекта [Звездочет](https://github.com/voskhod-1/starsresearch/)(скоро)
 
-[Purple Night](https://github.com/stariycat/moodlefix/tree/main/Purple%20Night) - тема для любителей фиолетового и тёмно-фиолетового.
+[Purple Night](Purple-Night/style.css) - тема для любителей фиолетового и тёмно-фиолетового.
 
 ![Purple Night](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/image2.png)
 
