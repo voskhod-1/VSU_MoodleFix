@@ -31,9 +31,39 @@
 
 4) Нажимаем **прекратить настраивать эту страницу**
 
-5) Пол дела сделано, теперь осталось установить **тему, которая скрывает ненужные элементы, которые мешают работе Moodle**
+5) Пол дела сделано(на самом деле этого уже достаточно для нормальной скорости загрузки ЛК), теперь осталось установить **тему, которая скрывает ненужные элементы, которые мешают работе Moodle**
 
-# Инструкция для Mac OS
+# Инструкция для Chromium(Chrome, MS Edge, Яндекс Браузер и т.д.) и Firefox
+
+1) В зависимости от браузера, скачиваем и устанавливаем расширение Stylish:
+
+Google Chrome - [ссылка](https://chromewebstore.google.com/detail/stylish-—-настраиваемые-т/fjnbnpbmkenffdnngjfgmeleoegfcffe)
+
+Mozilla Firefox - [ссылка](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
+
+Прямая ссылка на репозиторий расширения(для экспертов): - [ссылка](https://github.com/stylish-userstyles/stylish-chrome)
+
+2) Скачиваем стиль
+
+3) Открываем стиль через любой текстовый редактор и копируем содержимое файла
+
+4) Переходим на сайт мудла (edu.vsu.ru) и открываем Stylish во вкладке Editor
+
+![setpage](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/694302b2-2dd9-40cb-8bd3-24260de5604b.png)
+
+5) В поле Name your style соответственно называем ваш стиль, и вставляем код стиля в поле редактора, нажимаем кнопку Save
+
+![setpage](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/2f1493a3-9c90-4b2a-9c93-c01cc407e77c.png)
+
+6) В открывшемся окне авторизируемся любым доступным способом
+
+![setpage](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/0bf96c67-3bed-4d33-b1fa-7db10672d844.png)
+
+7) После авторизации и активации аккаунта, возвращаемся к расширению и нажимаем кнопку Save ещё раз
+
+**8) Всё!**
+
+# Инструкция для Safari
 
 1) Переходим в App Store, и в поиске ищем приложение: **Tamperish for Safari**, скачиваем и устанавливаем его
 
@@ -61,35 +91,6 @@
 
 **8) Всё!**
 
-# Инструкция для Windows
-
-1) В зависимости от браузера, скачиваем и устанавливаем расширение Stylish:
-
-Google Chrome - [ссылка](https://chromewebstore.google.com/detail/stylish-—-настраиваемые-т/fjnbnpbmkenffdnngjfgmeleoegfcffe)
-
-Mozilla Firefox - [ссылка](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
-
-Chromium-подобные браузеры: - [ссылка](https://github.com/stylish-userstyles/stylish-chrome)
-
-2) Скачиваем стиль
-
-3) Открываем стиль через любой текстовый редактор и копируем содержимое файла
-
-4) Переходим на сайт мудла (edu.vsu.ru) и открываем Stylish во вкладке Editor
-
-![setpage](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/694302b2-2dd9-40cb-8bd3-24260de5604b.png)
-
-5) В поле Name your style соответственно называем ваш стиль, и вставляем код стиля в поле редактора, нажимаем кнопку Save
-
-![setpage](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/2f1493a3-9c90-4b2a-9c93-c01cc407e77c.png)
-
-6) В открывшемся окне авторизируемся любым доступным способом
-
-![setpage](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/0bf96c67-3bed-4d33-b1fa-7db10672d844.png)
-
-7) После авторизации и активации аккаунта, возвращаемся к расширению и нажимаем кнопку Save ещё раз
-
-**8) Всё!**
 ## Credits
 
 - Telegram: [@a1b2c3d4e5f6g7h8i9j10k11l12m17](https://t.me/a1b2c3d4e5f6g7h8i9j10k11l12m17)
