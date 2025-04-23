@@ -6,24 +6,6 @@
 ## Решение
 ### С помощью этого репозитория мы уберем все лишнее и накинем немного ~волшебства~ кастомизации(необязательно)
 
-## Темы для CSS-оптимизации
-
-Понадобятся попозже, при установке.
-
-[Lite-theme (Standard)](https://github.com/stariycat/moodlefix/tree/main/Standard) - базовая тема, удаляющая лишнее, не изменяя кардинально UI.
-
-![Lite-theme (Standard)](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/image3.png)
-
-![Lite-theme (Standard)](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/image4.png)
-
-[Cosmo Stars]() – тема для фанатов проекта [Звездочет](https://github.com/voskhod-1/starsresearch/)(скоро)
-
-[Purple Night](https://github.com/stariycat/moodlefix/tree/main/Purple%20Night) - тема для любителей фиолетового и тёмно-фиолетового.
-
-![Purple Night](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/image2.png)
-
-![Purple Night](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/image.png)
-
 # Удаление лишних виджетов
 
 1) Заходим на сайт, авторизируемся, открываем **"Мой кабинет пользователя"**
@@ -40,7 +22,7 @@
 
 5) Еще **можно** установить **тему, которая скрывает ненужные элементы, которые мешают работе Moodle**
 
-# Установка тем
+# Установка тем(расположены внизу)
 ## Инструкция для Chromium(Chrome, MS Edge, Яндекс Браузер и т.д.) и Firefox
 
 1) В зависимости от браузера, скачиваем и устанавливаем расширение Stylish:
@@ -98,6 +80,25 @@ Mozilla Firefox - [ссылка](https://addons.mozilla.org/en-US/firefox/addon/
 ![setpage](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/bab0c69b-32c3-4711-96bd-49fb26ab8a3f.png)
 
 **8) Всё!**
+
+# Темы для CSS-оптимизации
+
+Понадобятся попозже, при установке.
+
+[Lite-theme (Standard)](https://github.com/stariycat/moodlefix/tree/main/Standard) - базовая тема, удаляющая лишнее, не изменяя кардинально UI.
+
+![Lite-theme (Standard)](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/image3.png)
+
+![Lite-theme (Standard)](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/image4.png)
+
+[Cosmo Stars]() – тема для фанатов проекта [Звездочет](https://github.com/voskhod-1/starsresearch/)(скоро)
+
+[Purple Night](https://github.com/stariycat/moodlefix/tree/main/Purple%20Night) - тема для любителей фиолетового и тёмно-фиолетового.
+
+![Purple Night](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/image2.png)
+
+![Purple Night](https://raw.githubusercontent.com/stariycat/moodlefix/master/Screenshots/image.png)
+
 
 ## Credits
 
